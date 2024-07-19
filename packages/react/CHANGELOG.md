@@ -1,5 +1,11 @@
 # @ai-sdk/react
 
+## 0.0.26
+
+### Patch Changes
+
+- 4b2c09d9: feat (ai/ui): add mutator function support to useChat / setMessages
+
 ## 0.0.25
 
 ### Patch Changes

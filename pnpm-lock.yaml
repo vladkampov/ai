@@ -920,19 +920,19 @@ importers:
         specifier: 1.0.2
         version: link:../provider-utils
       '@ai-sdk/react':
-        specifier: 0.0.25
+        specifier: 0.0.26
         version: link:../react
       '@ai-sdk/solid':
-        specifier: 0.0.18
+        specifier: 0.0.19
         version: link:../solid
       '@ai-sdk/svelte':
-        specifier: 0.0.19
+        specifier: 0.0.20
         version: link:../svelte
       '@ai-sdk/ui-utils':
         specifier: 0.0.16
         version: link:../ui-utils
       '@ai-sdk/vue':
-        specifier: 0.0.20
+        specifier: 0.0.21
         version: link:../vue
       '@opentelemetry/api':
         specifier: 1.9.0

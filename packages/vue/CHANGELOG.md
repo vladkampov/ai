@@ -1,5 +1,11 @@
 # @ai-sdk/vue
 
+## 0.0.21
+
+### Patch Changes
+
+- 4b2c09d9: feat (ai/ui): add mutator function support to useChat / setMessages
+
 ## 0.0.20
 
 ### Patch Changes
